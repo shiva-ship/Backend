@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432a819b-6fe1-45a9-8cc6-7e2a62d12eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Backend/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Backendv1/BackendV1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Backend/BackendV1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Backendv1/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Backend/login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/Backendv1/BackendV1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/Backend/BackendV1ApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="432a819b-6fe1-45a9-8cc6-7e2a62d12eab" name="Changes" comment="" />
+    <list id="709780e4-610e-4a0d-8d07-b7f7e42b1988" name="Ignore" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,11 +72,20 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="432a819b-6fe1-45a9-8cc6-7e2a62d12eab" name="Changes" comment="" />
+      <changelist id="709780e4-610e-4a0d-8d07-b7f7e42b1988" name="Ignore" comment="" />
       <created>1666991977400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666991977400</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added SpringSecurity.java">
+      <created>1667243093418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667243093418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,5 +115,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Added SpringSecurity.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SpringSecurity.java" />
   </component>
 </project>
