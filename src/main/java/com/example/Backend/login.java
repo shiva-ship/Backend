@@ -1,4 +1,4 @@
-package com.example.Backendv1;
+package com.example.Backend;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

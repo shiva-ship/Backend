@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.Backend-v-1' is invalid and this project uses 'com.example.Backendv1' instead.
+* The original package name 'com.example.Backend-v-1' is invalid and this project uses 'com.example.Backend' instead.
 
 # Getting Started
 
